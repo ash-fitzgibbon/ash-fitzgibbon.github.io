@@ -6,7 +6,10 @@
 body {
   background-color: rgb(248, 190, 82);
 }
-
+.headersize {
+  margin:0px 15px 0px 15px;
+  font-size:22px;
+}
 .header {
   background-color: orange;
   margin:0;
