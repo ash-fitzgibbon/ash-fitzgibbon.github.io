@@ -17,7 +17,15 @@ body {
   text-align: center;
   font-size:50px;
 }
-
+.h13 {
+  display: block;
+  font-size: 0.67em;
+  margin-block-start: 2.33em;
+  margin-block-end: 2.33em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
 .navbar {
   display: flex;
   flex-direction: row;
